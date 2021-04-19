@@ -1,8 +1,6 @@
 # react-native-imc 
 
 Aplicativo para calcular IMC, native usando react-native + expo.io 💙 
-![tks undraw - ninaLimpi](https://i.imgur.com/9nUoE3V.png)
-
 
 ## Installation
 
@@ -26,3 +24,6 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+![tks undraw - ninaLimpi](https://i.imgur.com/9nUoE3V.png)
