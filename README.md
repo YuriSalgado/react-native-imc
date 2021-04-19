@@ -25,5 +25,6 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-![tks undraw - ninaLimpi](https://i.imgur.com/9nUoE3V.png)
+<p align="center">
+  <img src="https://i.imgur.com/9nUoE3V.png?raw=true" alt="Man fit stats - tks undraw - ninaLimpi"/>
+</p>
