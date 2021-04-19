@@ -1,6 +1,8 @@
 # react-native-imc 
 
 Aplicativo para calcular IMC, native usando react-native + expo.io 💙 
+![tks undraw - ninaLimpi](https://i.imgur.com/9nUoE3V.png)
+
 
 ## Installation
 
@@ -15,6 +17,7 @@ npm install --global expo-cli
 ```gitbash
 expo start
 ```
+ Open in your browser > http://localhost:19002 > choose run as.. 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
